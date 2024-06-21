@@ -1,0 +1,8 @@
+ *.zip
+.env
+backup/
+vendor/
+error_log
+assets/img/Product\ Demo.mp4
+*.mp4
+.htaccess
